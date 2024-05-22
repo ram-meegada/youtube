@@ -108,3 +108,4 @@ class DownloadFileView(APIView):
                 "msg": json.dumps(data)
             }
         )
+
